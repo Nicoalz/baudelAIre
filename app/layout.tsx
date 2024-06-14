@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(''),
+  //metadataBase: new URL(''),
   title: "baudelAIre • Générateur de poème avec IA",
   description: "baudelAIre est un générateur de poème grâçe à l'Intelligence Artificielle.",
   manifest: '/favicon/site.webmanifest',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   keywords: ['ia', 'ai', 'poeme', 'intelligence articielle', 'poésie', 'poète', 'poet', 'poetry', 'poem', 'poème'],
   authors: [{ name: 'Nicoalz', url: 'https://linktr.ee/nicoalz' }],
-  alternates: { canonical: '' },
+ // alternates: { canonical: '' },
   robots: 'index, follow',
   twitter: {
     card: 'summary_large_image',
