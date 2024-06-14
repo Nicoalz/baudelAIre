@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="baudelAIre logo" src="/images/icon.png" style="border-radius: 5px; width: 100px; height: 100px;" />
+    <img alt="baudelAIre logo" src="https://baudelaire.vercel.app/images/icon.png" style="border-radius: 5px; width: 100px; height: 100px;" />
   </a>
 </p>
 
